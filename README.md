@@ -4,6 +4,7 @@
 - [Data Sources](#data-sources)
 - [Tools and Concept Demonstrated](#tools-and-concept-demonstrated)
 - [Project Objectives](#project-objectives)
+- [Result and findings](#result-and-findings)
 
 ## Project Overview
 
