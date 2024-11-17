@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-This data analysis project is designed to deliver insights into the film industry spanning the years 1916 to 2006. By examining various dimensions, including roles, reviews, personnel, and film datasets, the project aims to retrieve, filter, and analyze data to address practical business questions relevant to the industry. The goal is to provide data-driven recommendations, enhance understanding of film-related trends and patterns, and showcase proficiency in SQL and Tableau.
+This data analysis project is designed to deliver insights into the film industry spanning the years 1916 to 2006. By examining various dimensions, including roles, reviews, personnel, and film datasets, the project aims to retrieve, filter, and analyze data to address practical business questions relevant to the industry. The goal is to provide data-driven insights, enhance understanding of film-related trends and patterns, and showcase proficiency in SQL and Tableau.
 
 ## Data Sources
 This data is a public data and its not in any form a real-world industry data and its only used for the purpose of learning and showing my data analytic skills.
