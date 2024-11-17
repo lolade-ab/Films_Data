@@ -1,4 +1,4 @@
-# Films Data Analysis
+# Films Data Analysis Using postgreSQL and Tableau for Visualization
 ## Table of Content
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
