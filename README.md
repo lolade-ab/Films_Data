@@ -41,13 +41,14 @@ ORDER BY count DESC
 LIMIT 5;
 ```
 
-- Which country has made the highest profit from movies?
+- Which films has the highest number of user and critic reviews?
 ```sql
-SELECT 
-(gross - budget) AS profit, 
-FROM films
-WHERE (gross - budget) IS NOT NULL
-ORDER BY (gross - budget);
+SELECT title,film_id, num_user,num_critic
+FROM reviews
+LEFT JOIN films
+ON reviews.film_id=films.id
+WHERE num_user IS NOT NULL
+ORDER BY num_user DESC,num_critic DESC;
 ```
 
 - Which movie made the highest profit in the 21st century
