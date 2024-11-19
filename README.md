@@ -29,7 +29,7 @@ This data is a public data and its not in any form a real-world industry data an
 
 ## Visualization
 
-<img width="1188" alt="Films dashboard" src="https://github.com/user-attachments/assets/76b23e29-6362-473f-883c-41fe5580d646">
+[<img width="1188" alt="Films dashboard" src="https://github.com/user-attachments/assets/76b23e29-6362-473f-883c-41fe5580d646">](https://github.com/lolade-ab/Public_Films_Data_Project/blob/main/Images/Films%20dashboard.png)
 
 ## Insights
 Disclaimer: This dataset is a public data and NOT an active industry data.
