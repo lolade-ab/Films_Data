@@ -16,9 +16,10 @@ This data is a public data and its not in any form a real-world industry data an
 ## Tools and Concept Demonstrated
 - SQL
   - Select,From,where,Orderby,Groupby,Having,Table join Aggregate functions:(sum, average, count, Distinct)e.t.c
+  - SQL Queries prensentation containing all codes and results [click](https://github.com/lolade-ab/Public_Films_Data_Project/tree/main/Sql%20Queries%20ppt)
 - Tableau
   - Creating easy to Understand visualization Dashboard report.
-  - SQL Queries prensentation containing all codes and results [click](https://github.com/lolade-ab/Public_Films_Data_Project/tree/main/Sql%20Queries%20ppt)
+
 
 ## Project Objectives
 - Develop hands-on experience in leveraging SQL for comprehensive data analysis.  
