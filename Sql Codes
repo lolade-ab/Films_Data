@@ -1,0 +1,7 @@
+1. What are the top 10 highest-grossing films in the database, and when were they released?
+Select gross, release_year
+From films
+Where gross is not null
+Order BY gross DESC
+Limit 10;
+
