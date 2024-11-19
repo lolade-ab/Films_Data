@@ -27,7 +27,7 @@ This data is a public data and its not in any form a real-world industry data an
 - Address real-world business questions through the application of SQL techniques.  
 - Present analysis findings in a structured and professional format.
 
-## FILMS ERD FOR Database
+### Films Entity Relationship Diagram(ERD) For Tables in the Dataset
 <img width="1310" alt="FILMS ERD FOR DB" src="https://github.com/user-attachments/assets/a01a9842-e85d-4666-971f-d868ca6f992a">
 
 ### Few Key business questions that guided the development of a visualization dashboard
