@@ -1,5 +1,7 @@
+```sql
 SELECT gross, release_year
 FROM films
 WHERE gross is not null
 ORDER BY gross DESC
 LIMIT 10;
+```
