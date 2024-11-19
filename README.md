@@ -27,8 +27,11 @@ This data is a public data and its not in any form a real-world industry data an
 - Address real-world business questions through the application of SQL techniques.  
 - Present analysis findings in a structured and professional format.
 
-FILMS ERD FOR Database
-https://github.com/lolade-ab/Public_Films_Data_Project/blob/main/Images/FILMS%20ERD%20FOR%20DB.png
+## FILMS ERD FOR Database
+<img width="1310" alt="FILMS ERD FOR DB" src="https://github.com/user-attachments/assets/a01a9842-e85d-4666-971f-d868ca6f992a">
+
+
+
 ## Visualization
 
 [<img width="1188" alt="Films dashboard" src="https://github.com/user-attachments/assets/76b23e29-6362-473f-883c-41fe5580d646">](https://github.com/lolade-ab/Public_Films_Data_Project/blob/main/Images/Films%20dashboard.png)
