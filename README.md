@@ -44,20 +44,20 @@ LIMIT 5;
 - Which country has made the highest profit from movies?
 ```sql
 SELECT 
-    (gross - budget) AS profit, 
+(gross - budget) AS profit, 
 FROM films
 WHERE (gross - budget) IS NOT NULL
-ORDER BY (gross - budget) 
+ORDER BY (gross - budget);
 ```
 
 - Which movie made the highest profit in the 21st century
 ```sql
 SELECT 
-    title,(gross - budget) AS profit, release_year
+title,(gross - budget) AS profit, release_year
 FROM films
 WHERE (gross - budget) IS NOT NULL
-	AND release_year >1999
-ORDER BY profit DESC
+AND release_year >1999
+ORDER BY profit DESC;
 ```
 - SQL Queries prensentation containing all codes and results [click](https://github.com/lolade-ab/Public_Films_Data_Project/tree/main/Sql%20Queries%20ppt)
 ## Visualization
