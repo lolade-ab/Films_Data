@@ -18,12 +18,14 @@ This data is a public data and its not in any form a real-world industry data an
   - Select,From,where,Orderby,Groupby,Having,Table join Aggregate functions:(sum, average, count, Distinct)e.t.c
 - Tableau
   - Creating easy to Understand visualization Dashboard report.
+  - SQL Queries prensentation containing all codes and results [click](https://github.com/lolade-ab/Public_Films_Data_Project/tree/main/Sql%20Queries%20ppt)
 
 ## Project Objectives
 - Develop hands-on experience in leveraging SQL for comprehensive data analysis.  
 - Utilize SQL queries to extract and analyze data from the "Films data" database.  
 - Address real-world business questions through the application of SQL techniques.  
 - Present analysis findings in a structured and professional format.
+
 ## Visualization
 
 <img width="1188" alt="Films dashboard" src="https://github.com/user-attachments/assets/76b23e29-6362-473f-883c-41fe5580d646">
