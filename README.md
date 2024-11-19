@@ -30,7 +30,35 @@ This data is a public data and its not in any form a real-world industry data an
 ## FILMS ERD FOR Database
 <img width="1310" alt="FILMS ERD FOR DB" src="https://github.com/user-attachments/assets/a01a9842-e85d-4666-971f-d868ca6f992a">
 
+### Few Key business questions that guided the development of a visualization dashboard
 
+- How many films in the database were released in each country, and what are the top five countries?
+```sql
+SELECT COUNT(title), Country
+FROM films
+GROUP BY country
+ORDER BY count DESC
+LIMIT 5;
+```
+
+- Which country has made the highest profit from movies?
+```sql
+SELECT 
+    (gross - budget) AS profit, 
+FROM films
+WHERE (gross - budget) IS NOT NULL
+ORDER BY (gross - budget) 
+```
+
+- Which movie made the highest profit in the 21st century
+```sql
+SELECT 
+    title,(gross - budget) AS profit, release_year
+FROM films
+WHERE (gross - budget) IS NOT NULL
+	AND release_year >1999
+ORDER BY profit DESC
+```
 
 ## Visualization
 
